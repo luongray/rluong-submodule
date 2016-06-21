@@ -1,0 +1,3 @@
+[submodule "vreilly-source"]
+	path = vreilly-source
+	url = https://github.com/vreilly/training-submod.git
